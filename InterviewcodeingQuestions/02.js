@@ -7,3 +7,4 @@ console.log(a+b+c)
 //c=string
 //1+2=3
 //3=33
+//out put=33
